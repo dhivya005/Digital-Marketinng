@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to XYZ Digital Marketing</h1>
+        <h1>Welcome to iROID Digital Marketing</h1>
         <p>Your Success, Our Passion!</p>
     </header>
     
@@ -24,11 +24,12 @@
     <section id="contact">
         <h2>Contact Us</h2>
         <p>If you're ready to boost your online presence, get in touch with us today!</p>
-        <a href="mailto:info@xyzdigitalmarketing.com">Email Us</a>
+        <a href="mailto:2k22it11@kiot.ac.in">Email Us</a>
     </section>
     
     <footer>
-        <p>&copy; 2023 XYZ Digital Marketing</p>
+        <p>&copy; 2023 iROID Digital Marketing</p>
     </footer>
 </body>
 </html>
+
